@@ -21,7 +21,7 @@ The workspace contains two folders by default, where:
 
 ## Getting Started
 
-Here is a guideline to help you get started to use Course Offering:
+Here are some guidelines to help you getting started to use Course Offering:
 
 1. use the following command to clone the repository: 
 
