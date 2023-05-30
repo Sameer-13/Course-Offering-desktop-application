@@ -23,10 +23,10 @@ The workspace contains two folders by default, where:
 
 Here is a guideline to help you get started to use Course Offering:
 
->1- use the following command to clone the repository: 
+1. use the following command to clone the repository: 
 
 ```$ git clone https://github.com/Sameer-13/Course-Offering-desktop-application.git```.
 
->2- replace ```CourseOffering.csv```, ``` DegreePlan.csv``` and ```FinishedCourses.csv``` with your own files.
+2. replace ```CourseOffering.csv```, ``` DegreePlan.csv``` and ```FinishedCourses.csv``` with your own files.
 
-Then you can run the application and enjoy making your own schedule and planning for your coming semester.
+Now you can run the application and enjoy making your own schedule and planning for your coming semester.
